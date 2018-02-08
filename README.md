@@ -8,7 +8,7 @@ You will need to add a project
 https://console.developers.google.com
 
 Create credentials using oauth
-Upadte constants in contacts.php
+Update constants in contacts.php
 
 Load http://localhost:8080
 
